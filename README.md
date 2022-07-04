@@ -13,8 +13,8 @@ NLTK, Pandas, Scilit-learn.
 
 A glance on chatbot:
 
-![Alt text](ChatBot-using-Wiki-/blob/main/Screenshot%20(443).png?raw=true "Starting chat with chatbot")
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](Screenshot%20(443).png?raw=true "Starting chat with chatbot")
+![Alt text](Screenshot%20(444).png?raw=true "Quitting chat with chatbot")
 
 
 
